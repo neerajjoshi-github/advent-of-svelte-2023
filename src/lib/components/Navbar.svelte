@@ -26,7 +26,9 @@
 	<div>
 		<a href="/" class="flex items-center gap-2">
 			<img class="w-10" src={Logo} alt="advent of svelte" />
-			<span class="text-orange text-lg font-bold text-[#ff3e00]">Advent of Svelte</span>
+			<span class="text-orange text-lg font-bold text-[#ff3e00] max-sm:hidden"
+				>Advent of Svelte</span
+			>
 		</a>
 	</div>
 

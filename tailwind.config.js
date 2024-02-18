@@ -14,6 +14,13 @@ const config = {
 			}
 		},
 		extend: {
+			backgroundImage: {
+				// Day - 2
+				progress: 'linear-gradient(to right, #6d28d9, #b100b9, #d60096, #ea0076, #f12159)'
+			},
+			gridTemplateColumns: {
+				20: 'repeat(20, minmax(0, 1fr))'
+			},
 			colors: {
 				border: 'hsl(var(--border) / <alpha-value>)',
 				input: 'hsl(var(--input) / <alpha-value>)',

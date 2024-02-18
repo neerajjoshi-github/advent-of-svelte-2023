@@ -4,7 +4,7 @@
 </script>
 
 <main class="flex flex-1 items-center justify-center p-4">
-	<div class="grid grid-cols-2 items-center justify-center md:grid-cols-3 lg:grid-cols-4">
+	<div class="grid grid-cols-2 items-center justify-center gap-10 md:grid-cols-3 lg:grid-cols-4">
 		{#each days as { day, title }}
 			<a href="/day-{day}" class="group">
 				<Card.Root class="text-center transition-colors ease-linear group-hover:bg-muted/40">
