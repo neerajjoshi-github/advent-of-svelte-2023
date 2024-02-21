@@ -23,5 +23,9 @@ export const days: Day[] = [
 	{
 		day: 5,
 		title: 'Present Progress'
+	},
+	{
+		day: 6,
+		title: 'Misteltoe Metronome'
 	}
 ];
