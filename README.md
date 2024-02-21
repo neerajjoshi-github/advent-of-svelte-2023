@@ -8,6 +8,7 @@ My solutions for advent of svelte 2023 challenges.
 2. [Day 2: Merry Munch-o-Meter](#day-2-merry-munch-o-meter)
 3. [Day 3: Jingle Bell Balancer](#day-3-jingle-bell-balancer)
 4. [Day 4: Heart of Christmas](#day-4-heart-of-christmas)
+5. [Day 5: Present Progress](#day-5-present-progress)
 
 ### Day 1: Naughty or Nice
 
@@ -31,4 +32,10 @@ My solutions for advent of svelte 2023 challenges.
 
 <div align="center">
   <img src="./static/readme-images/day-4.png" alt="Day 4" width="90%" />
+</div>
+
+### Day 5: Present Progress
+
+<div align="center">
+  <img src="./static/readme-images/day-5.png" alt="Day 5" width="90%" />
 </div>

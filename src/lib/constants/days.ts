@@ -19,5 +19,9 @@ export const days: Day[] = [
 	{
 		day: 4,
 		title: 'Heart of Christmas'
+	},
+	{
+		day: 5,
+		title: 'Present Progress'
 	}
 ];
