@@ -9,8 +9,9 @@ My solutions for advent of svelte 2023 challenges.
 3. [Day 3: Jingle Bell Balancer](#day-3-jingle-bell-balancer)
 4. [Day 4: Heart of Christmas](#day-4-heart-of-christmas)
 5. [Day 5: Present Progress](#day-5-present-progress)
-6. [Day 6: Misteltoe Metronome](#day-5-misteltoe-metronome)
-7. [Day 7: Morse Mischief](#day-5-morse-mischief)
+6. [Day 6: Misteltoe Metronome](#day-6-misteltoe-metronome)
+7. [Day 7: Morse Mischief](#day-7-morse-mischief)
+8. [Day 8: Santa's Mysterious Deck of Doubles](#day-8-santas-mysterious-deck-of-doubles)
 
 ### Day 1: Naughty or Nice
 
@@ -52,4 +53,10 @@ My solutions for advent of svelte 2023 challenges.
 
 <div align="center">
   <img src="./static/readme-images/day-7.png" alt="Day 7" width="90%" />
+</div>
+
+### Day 8: Santa's Mysterious Deck of Doubles
+
+<div align="center">
+  <img src="./static/readme-images/day-8.png" alt="Day 8" width="90%" />
 </div>
