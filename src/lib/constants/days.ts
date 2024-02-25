@@ -39,5 +39,9 @@ export const days: Day[] = [
 	{
 		day: 9,
 		title: 'Santa`s Final Countdown'
+	},
+	{
+		day: 10,
+		title: 'Pop-up! Spreading the holiday cheer'
 	}
 ];
