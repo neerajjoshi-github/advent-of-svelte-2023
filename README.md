@@ -12,6 +12,7 @@ My solutions for advent of svelte 2023 challenges.
 6. [Day 6: Misteltoe Metronome](#day-6-misteltoe-metronome)
 7. [Day 7: Morse Mischief](#day-7-morse-mischief)
 8. [Day 8: Santa's Mysterious Deck of Doubles](#day-8-santas-mysterious-deck-of-doubles)
+9. [Day 9: Santa's Final Countdown](#day-8-santas-final-countdown)
 
 ### Day 1: Naughty or Nice
 
@@ -59,4 +60,10 @@ My solutions for advent of svelte 2023 challenges.
 
 <div align="center">
   <img src="./static/readme-images/day-8.png" alt="Day 8" width="90%" />
+</div>
+
+### Day 9: Santa's Final Countdown
+
+<div align="center">
+  <img src="./static/readme-images/day-9.png" alt="Day 9" width="90%" />
 </div>

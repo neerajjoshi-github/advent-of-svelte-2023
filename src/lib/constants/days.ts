@@ -35,5 +35,9 @@ export const days: Day[] = [
 	{
 		day: 8,
 		title: 'Santa`s Mysterious Deck of Doubles'
+	},
+	{
+		day: 9,
+		title: 'Santa`s Final Countdown'
 	}
 ];
