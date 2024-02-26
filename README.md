@@ -14,6 +14,7 @@ My solutions for advent of svelte 2023 challenges.
 8. [Day 8: Santa's Mysterious Deck of Doubles](#day-8-santas-mysterious-deck-of-doubles)
 9. [Day 9: Santa's Final Countdown](#day-9-santas-final-countdown)
 10. [Day 10: Pop-up! Spreading the holiday cheer](#day-10-pop-up-spreading-the-holiday-cheer)
+11. [Day 11: Tinsel Transformers](#day-11-tinsel-transformers)
 
 ### Day 1: Naughty or Nice
 
@@ -73,4 +74,10 @@ My solutions for advent of svelte 2023 challenges.
 
 <div align="center">
   <img src="./static/readme-images/day-10.png" alt="Day 10" width="90%" />
+</div>
+
+### Day 11: Tinsel Transformers
+
+<div align="center">
+  <img src="./static/readme-images/day-11.png" alt="Day 11" width="90%" />
 </div>
